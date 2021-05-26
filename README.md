@@ -1,1 +1,1 @@
-# Paint-2.0
+This project is my first contact with professional software documentation and python language. Paint 2.0 allows you to pick the colour of your tool and change its thickness, save your work and clear your canvas. You can also draw a circle and a quadrat and change the colour of your canvas and tool. This project is using Tkinter and PIL package.  
